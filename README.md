@@ -3,7 +3,6 @@
 - 🖥️ I’m currently working on support it
 - 👩‍💻 I do Data Science at a college
 - ☁️ Future Cloud Engineer
-- 📚 I’m currently learning Vagrant, Linux, Python and SQL
 - 🤝 I’m looking for help with studies in general
 - 😂 Fun fact: I love watching league of legends championship
 - 📧 Email: horranaiasmim@gmail.com
