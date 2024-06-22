@@ -2,9 +2,7 @@
 
 - 🖥️ I’m currently working on support it
 - 👩‍💻 I do Data Science at a college
-- ☁️ Future Data Engineer
 - 😂 Fun fact: I love watching league of legends championship
-- 📧 Email: horranaiasmim@gmail.com
 
 ###
 
