@@ -4,9 +4,9 @@ Olá! Sou estudante de **Ciência de Dados** no Centro Universitário Uninter e 
 
 - Linguagens **Python** e **SQL**
 - Processos de **ETL**
-- **Web Scraping**
-- **Docker**, **Git/GitHub**
-- **Bancos de Dados Relacionais** (PostgreSQL, MySQL e SQL Server)
+- Web Scraping
+- Docker, Git/GitHub
+- Bancos de Dados Relacionais (PostgreSQL, MySQL e SQL Server)
 
 Também tenho familiaridade com **HTML e CSS**, e grande interesse por **computação em nuvem**.
 
