@@ -3,10 +3,10 @@
 Olá! Sou estudante de **Ciência de Dados** no Centro Universitário Uninter e também estou me especializando em **Engenharia de Dados** pela Jornada de Dados. Atualmente, estou **em busca do meu primeiro estágio na área de tecnologia**, com foco em resolver problemas reais, aplicar boas práticas e evoluir continuamente. Meus estudos têm sido direcionados principalmente para:
 
 - Linguagens **Python** e **SQL**
-- Processos de **ETL**
-- Web Scraping
-- Docker, Git/GitHub
+- Processos de **ETL** e **Web Scraping**
+- Ferramentas: Git, GitHub, Docker
 - Bancos de Dados Relacionais (PostgreSQL, MySQL e SQL Server)
+- Frameworks e Bibliotecas: Scrapy, Requests, e Selenium, Pandas, Pydantic, Streamlit
 
 Também tenho familiaridade com **HTML e CSS**, e grande interesse por **computação em nuvem**.
 
