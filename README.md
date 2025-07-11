@@ -28,11 +28,11 @@ Também tenho familiaridade com **HTML e CSS**, e grande interesse por **computa
 </p>
 
 ---
-<p align="center">
-  <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=iasmimhorrana&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="51%" height="180px" src="https://github-readme-streak-stats.demolab.com/?user=iasmimhorrana&theme=radical&hide_border=true" />
-</p>
 
+<div style="display:flex; justify-content:space-between;">
+  <img width="51%" height="180px" src="https://github-readme-stats.vercel.app/api?username=IasmimHorrana&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="IasmimHorrana's Stats" />
+  <img width="48%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=IasmimHorrana&theme=nord&hide_border=false" alt="IasmimHorrana's Streak" />
+</div>
 
 
 
