@@ -31,7 +31,7 @@ Também tenho familiaridade com **HTML e CSS**, e grande interesse por **computa
 
 <div style="display:flex; justify-content:space-between;">
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=IasmimHorrana&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="IasmimHorrana's Stats" />
-  <img width="50%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=IasmimHorrana&theme=nord&hide_border=false" alt="IasmimHorrana's Streak" />
+  <img width="51%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=IasmimHorrana&theme=nord&hide_border=false" alt="IasmimHorrana's Streak" />
 </div>
 
 
