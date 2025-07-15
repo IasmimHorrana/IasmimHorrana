@@ -12,23 +12,6 @@ Também tenho familiaridade com **HTML e CSS**, e grande interesse por **computa
 
 ---
 
-### 🛠️ Tech Stack em aprendizado
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrapy-85EA2D?style=for-the-badge&logo=scrapy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
 <div style="display:flex; justify-content:space-between;">
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=IasmimHorrana&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="IasmimHorrana's Stats" />
   <img width="50.8%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=IasmimHorrana&theme=nord&hide_border=false" alt="IasmimHorrana's Streak" />
