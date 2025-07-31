@@ -4,12 +4,12 @@ Sou estudante de Ciência de Dados no Centro Universitário Uninter e atualmente
 
 Tenho direcionado meus estudos e projetos para o domínio de:
 
-🔄 ETL pipelines com Python e SQL
-🧠 Modelagem, Limpeza e Validação de dados
-🚀 Databricks, PySpark, Spark SQL 
-🐘 PostgreSQL e SQL Server
-🐳 Docker para ambientes isolados
-🧪 Git/GitHub para versionamento
+- 🔄 ETL pipelines com Python e SQL
+- 🧠 Modelagem, Limpeza e Validação de dados
+- 🚀 Databricks, PySpark, Spark SQL 
+- 🐘 PostgreSQL e SQL Server
+- 🐳 Docker para ambientes isolados
+- 🧪 Git/GitHub para versionamento
 
 ---
 
