@@ -1,15 +1,14 @@
-## 👩‍💻 Sobre mim
+🎓 Estudante de Ciência de Dados no Centro Universitário Uninter e em especialização em Engenharia de Dados pela Jornada de Dados.
 
-Sou estudante de Ciência de Dados no Centro Universitário Uninter e atualmente estou me especializando em Engenharia de Dados pela Jornada de Dados.
+Áreas de atuação e interesse:
 
-Tenho direcionado meus estudos e projetos para o domínio de:
-
-- 🔄 ETL pipelines com Python e SQL
-- 🧠 Modelagem, Limpeza e Validação de dados
-- 🚀 Databricks, PySpark, Spark SQL 
-- 🐘 PostgreSQL e SQL Server
-- 🐳 Docker para ambientes isolados
-- 🧪 Git/GitHub para versionamento
+🐍 Python e SQL para manipulação e análise
+🔄 Pipeline de Dados: ingestão, transformação e orquestração
+🚀 Databricks, Delta Lake, PySpark e Spark SQL
+🐘 Bancos de dados relacionais: PostgreSQL, SQL Server
+🐳 Docker para ambientes isolados
+🧪 GitHub para versionamento e colaboração
+🧠 Modelagem, limpeza e validação de dados
 
 ---
 
